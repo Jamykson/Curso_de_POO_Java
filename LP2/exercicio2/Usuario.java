@@ -2,8 +2,28 @@ package Professor;
 
 public class Usuario{
 
-    public String nome;
-    public int identificador;
+    private String nome;
+    private int identificador;
+
+    public Usuario(String nome, int identificador){
+
+        this.nome = nome;
+        this.identificador = identificador;
+
+    }//Construtor
+    
+    public String getNome(){
+        return nome;
+    }
+    public String setNome(){
+        this.nome = nome;
+    }
+    public int getIdentificador(){
+        return identificador;
+    }
+    public int setIdentificador(){
+        this.Identificador = Identificador;
+    }
 
     public void Exibir(){
 
