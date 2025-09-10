@@ -1,9 +1,9 @@
 package aula09;
 public class Pessoa {
 
-    public String nome;
-    public int idade;
-    public String sexo;
+    private String nome;
+    private int idade;
+    private String sexo;
 
     public Pessoa( String nome, String sexo, int idade){ //Construtor
         
@@ -13,7 +13,7 @@ public class Pessoa {
 
     }
 
-    private void fazerAniver(){ 
+    public void fazerAniver(){ 
         System.out.println(getNome() + " está fazendo aniversário!");
         setIdade(getIdade() + 1);
     }
