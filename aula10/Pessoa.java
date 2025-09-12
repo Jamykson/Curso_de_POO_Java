@@ -6,17 +6,22 @@ public class Pessoa{
     private int idade;
     private String sexo;
 
-    public Pessoa(String nome, int idade, String sexo){
+    /*public Pessoa(String nome, int idade, String sexo){
 
         this.nome = nome;
         this.idade = idade;
         this.sexo = sexo;
 
-    } //construtor
+    } //construtor*/
 
     public void fazerAniver(){
 
         setIdade(getIdade() + 1);
+    }
+
+    public String toString(){
+
+        return "Pessoa{" + "nome = " + getNome() + ", Idade =" + getIdade() + ", Sexo: " + getSexo() + "}";
     }
 
     public String getNome() {

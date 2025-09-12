@@ -5,13 +5,13 @@ public class Professor extends  Pessoa {
         private String especialidade;
         private float salario;
 
-        public Professor(String nome, int idade, String sexo,String especialidade, float salario){
+        /*public Professor(String nome, int idade, String sexo,String especialidade, float salario){
             
             super(nome, idade, sexo);
         
             this.especialidade = especialidade;
             this.salario = salario;
-        }//construtor
+        }//construtor*/
 
         public void receberAum(float aumento){
 

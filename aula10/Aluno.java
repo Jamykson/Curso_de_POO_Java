@@ -5,13 +5,13 @@ public class Aluno extends Pessoa{
     private boolean matr;
     private String curso;
 
-    public Aluno(String nome, int idade, String sexo, boolean matr, String curso) {
+    /*public Aluno(String nome, int idade, String sexo, boolean matr, String curso) {
         
         super(nome, idade, sexo);
         
         this.matr = matr;
         this.curso = curso;
-    } //construtor
+    } //construtor*/
 
     public void cancelarMatr(){
 

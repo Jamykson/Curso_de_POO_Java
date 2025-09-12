@@ -5,13 +5,13 @@ public class Funcionario extends Pessoa{
     private String setor;
     private boolean trabalhando;
 
-    public Funcionario(String nome, int idade, String sexo, String setor, boolean trabalhando){
+    /*public Funcionario(String nome, int idade, String sexo, String setor, boolean trabalhando){
         
         super(nome, idade, sexo);
         
         this.setor = setor;
         this.trabalhando = trabalhando;
-    }// construtor
+    }// construtor*/
 
     public void mudarTrabalho(String setor){
 
