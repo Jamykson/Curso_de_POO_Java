@@ -64,7 +64,9 @@ Gustavo Guanabara é um professor e profissional de TI conhecido por sua didáti
 🔗 Links Úteis
 Playlist Completa do Curso no YouTube
 https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
+
 Site Oficial do Curso em Vídeo
 https://www.cursoemvideo.com/curso/java-poo/
+
 GitHub do Gustavo Guanabara
 https://github.com/gustavoguanabara
