@@ -33,7 +33,14 @@ POO-COM-JAVA/
 ├── aula04/
 ├── aula05/
 ├── aula06/
-├── ... e assim por diante
+├── aula07/
+├── aula08/
+├── aula09/
+├── aula10/
+├── aula11/
+├── aula12/
+├── aula13/
+├── aula14/
 └── README.md
 ```
 
