@@ -4,7 +4,7 @@ Este repositório contém todos os códigos e exercícios desenvolvidos durante 
 
 O projeto está totalmente configurado para ser executado em um ambiente de desenvolvimento na nuvem com **GitHub Codespaces**, permitindo que você estude e execute o código de qualquer lugar, sem precisar instalar nada na sua máquina.
 
-[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=SEU_USUARIO/SEU_REPOSITORIO)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/Jamykson/POO-com-Java)
 > **Atenção:** Para que o botão acima funcione, substitua `SEU_USUARIO/SEU_REPOSITORIO` pela URL do seu repositório (ex: `johndoe/POO-COM-JAVA`).
 
 ---
