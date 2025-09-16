@@ -1,28 +1,33 @@
-☕ Curso de Java POO - Gustavo Guanabara (Curso em Vídeo)
-Este repositório contém todos os códigos e exercícios desenvolvidos durante o Curso de Programação Orientada a Objetos (POO) com Java, criado pelo professor Gustavo Guanabara para a plataforma Curso em Vídeo.
+# ☕ Curso de Java POO - Gustavo Guanabara (Curso em Vídeo)
 
-O projeto está totalmente configurado para ser executado em um ambiente de desenvolvimento na nuvem com GitHub Codespaces, permitindo que você estude e execute o código de qualquer lugar, sem precisar instalar nada na sua máquina.
+Este repositório contém todos os códigos e exercícios desenvolvidos durante o **Curso de Programação Orientada a Objetos (POO) com Java**, criado pelo professor Gustavo Guanabara para a plataforma [Curso em Vídeo](https://www.cursoemvideo.com/).
 
-✨ Sobre o Curso
+O projeto está totalmente configurado para ser executado em um ambiente de desenvolvimento na nuvem com **GitHub Codespaces**, permitindo que você estude e execute o código de qualquer lugar, sem precisar instalar nada na sua máquina.
+
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://github.com/codespaces/new?hide_repo_select=true&ref=main&repo=SEU_USUARIO/SEU_REPOSITORIO)
+> **Atenção:** Para que o botão acima funcione, substitua `SEU_USUARIO/SEU_REPOSITORIO` pela URL do seu repositório (ex: `johndoe/POO-COM-JAVA`).
+
+---
+
+## ✨ Sobre o Curso
+
 Este curso aborda os principais conceitos da Programação Orientada a Objetos de uma maneira simples, objetiva e divertida. Você aprenderá os pilares da POO e como aplicá-los na linguagem Java, uma das mais robustas e requisitadas do mercado.
 
-Principais conceitos abordados:
+**Principais conceitos abordados:**
+* Classes e Objetos
+* Abstração e Encapsulamento
+* Herança e Polimorfismo
+* Visibilidade (public, private, protected)
+* Métodos Acessores (Getters), Modificadores (Setters) e Construtores.
+* Relacionamento entre Classes
 
-Classes e Objetos
+---
 
-Abstração e Encapsulamento
+## 📂 Estrura do Repositório
 
-Herança e Polimorfismo
-
-Visibilidade (public, private, protected)
-
-Métodos Acessores (Getters), Modificadores (Setters) e Construtores.
-
-Relacionamento entre Classes
-
-📂 Estrutura do Repositório
 O conteúdo está organizado em pastas, onde cada uma corresponde a uma aula do curso, facilitando a navegação e o estudo do material.
 
+```
 POO-COM-JAVA/
 ├── aula02/
 ├── aula03/
@@ -31,43 +36,53 @@ POO-COM-JAVA/
 ├── aula06/
 ├── ... e assim por diante
 └── README.md
-🚀 Como usar com GitHub Codespaces
+```
+
+---
+
+## 🚀 Como usar com GitHub Codespaces
+
 Para iniciar o ambiente de desenvolvimento, siga os passos:
 
-Clique no botão "Code" no topo desta página.
+1.  **Clique no botão "Code"** no topo desta página.
+2.  Selecione a aba **"Codespaces"**.
+3.  Clique em **"Create codespace on main"** (ou na branch que desejar).
+4.  Aguarde um instante enquanto o GitHub prepara seu ambiente. Uma nova aba será aberta com o VS Code totalmente funcional no seu navegador, com o Java e as extensões necessárias já instaladas.
 
-Selecione a aba "Codespaces".
+---
 
-Clique em "Create codespace on main" (ou na branch que desejar).
+## 📚 Conteúdo das Aulas
 
-Aguarde um instante enquanto o GitHub prepara seu ambiente. Uma nova aba será aberta com o VS Code totalmente funcional no seu navegador, com o Java e as extensões necessárias já instaladas.
+| Pasta   | Assunto Principal                                |
+| :------ | :----------------------------------------------- |
+| `aula02`  | Primeiros Passos: Classes e Objetos              |
+| `aula03`  | Visibilidade de Atributos e Métodos              |
+| `aula04`  | Métodos Especiais: Getters, Setters e Construtores |
+| `aula05`  | Exemplo Prático: Conta de Banco                  |
+| `aula06`  | Pilar do Encapsulamento                          |
+| `aula07`  | Relacionamento entre Classes                     |
+| `aula08`  | Relacionamento de Agregação                      |
+| `aula09`  | Exercício Prático de POO                         |
+| `aula10`  | Pilar da Herança                                 |
+| `aula11`  | Herança (Parte 2): Tipos de Herança              |
+| `aula12`  | Pilar do Polimorfismo (Parte 1)                  |
+| `aula13`  | Pilar do Polimorfismo (Parte 2): Sobrecarga      |
+| `aula14`  | Projeto Final: Vídeo                             |
 
-📚 Conteúdo das Aulas
-Pasta	Assunto Principal
-aula02	Primeiros Passos: Classes e Objetos
-aula03	Visibilidade de Atributos e Métodos
-aula04	Métodos Especiais: Getters, Setters e Construtores
-aula05	Exemplo Prático: Conta de Banco
-aula06	Pilar do Encapsulamento
-aula07	Relacionamento entre Classes
-aula08	Relacionamento de Agregação
-aula09	Exercício Prático de POO
-aula10	Pilar da Herança
-aula11	Herança (Parte 2): Tipos de Herança
-aula12	Pilar do Polimorfismo (Parte 1)
-aula13	Pilar do Polimorfismo (Parte 2): Sobrecarga
-aula14	Projeto Final: Vídeo
+---
 
-👨‍🏫 Sobre o Professor
-Gustavo Guanabara é um professor e profissional de TI conhecido por sua didática única e apaixonada. Através do projeto Curso em Vídeo, ele já impactou a vida de milhões de estudantes, oferecendo cursos de alta qualidade de forma totalmente gratuita.
+## 👨‍🏫 Sobre o Professor
 
-🔗 Links Úteis
+**Gustavo Guanabara** é um professor e profissional de TI conhecido por sua didática única e apaixonada. Através do projeto [Curso em Vídeo](https://www.youtube.com/cursoemvideo), ele já impactou a vida de milhões de estudantes, oferecendo cursos de alta qualidade de forma totalmente gratuita.
 
-Playlist Completa do Curso no YouTube
-https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
+## 🔗 Links Úteis
 
-Site Oficial do Curso em Vídeo
-https://www.cursoemvideo.com/curso/java-poo/
+* **[Playlist Completa do Curso no YouTube](https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY)**
+* **[Site Oficial do Curso em Vídeo](https://www.cursoemvideo.com/curso/java-poo/)**
+* **[GitHub do Gustavo Guanabara](https://github.com/gustavoguanabara)**
 
-GitHub do Gustavo Guanabara
-https://github.com/gustavoguanabara
+---
+
+<p align="center">
+  Este repositório foi criado para fins de estudo. Todo o crédito pelo material didático é do Professor Gustavo Guanabara e do Curso em Vídeo.
+</p>
