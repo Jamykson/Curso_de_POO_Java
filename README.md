@@ -62,6 +62,7 @@ aula14	Projeto Final: Vídeo
 Gustavo Guanabara é um professor e profissional de TI conhecido por sua didática única e apaixonada. Através do projeto Curso em Vídeo, ele já impactou a vida de milhões de estudantes, oferecendo cursos de alta qualidade de forma totalmente gratuita.
 
 🔗 Links Úteis
+
 Playlist Completa do Curso no YouTube
 https://www.youtube.com/playlist?list=PLHz_AreHm4dkqe2aR0tQK74m8SFe-aGsY
 
